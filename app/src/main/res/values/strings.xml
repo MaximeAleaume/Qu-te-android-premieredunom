@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quête Simple UI</string>
+    <string name="textView">Welcome to the Wild Code School</string>
+    <string name="FIRSTNAME"></string>
+    <string name="LASTNAME"></string>
+    <string name="checkBox">Yes, I want to be a Wilder !</string>
+    <string name="button">ACCEPT</string>
+    <color name="myColour">#97628E</color>
+</resources>
