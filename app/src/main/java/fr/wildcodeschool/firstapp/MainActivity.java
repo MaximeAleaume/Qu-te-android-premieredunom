@@ -11,6 +11,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
+    if()
 
 
 
@@ -38,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
         } else {
             findViewById(R.id.editText).setEnabled(false);
             findViewById(R.id.editText2).setEnabled(false);
+            findViewById(R.id.buttonAccept).setEnabled(false);
         }
     }
 
